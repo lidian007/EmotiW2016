@@ -10,9 +10,9 @@ Also, you can extract audio and video features yourself, or test other vidoes by
    models：https://drive.google.com/open?id=0B6UurPOQfmP0R004bEdVbER1OFk
    c3d models：https://drive.google.com/open?id=0B6UurPOQfmP0U2NPUTdaN2dabzA
    
-   untar data into the current directoy: ./data
-   untar models into: ./models
-   untar c3d models into: ./c3d/models
+   tar zxvf data.tar.gz, place dir under root directoy, then as ./data/
+   tar zxvf models1.tar.gz, place dir under root directory, then as ./models
+   tar zxvf models2.tar.gz, place dir under ./c3d, then as ./c3d/models
 
 2.audio
   1) change into the audio directory: cd ./audio
