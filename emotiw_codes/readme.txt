@@ -1,6 +1,6 @@
 Get AFEW6.0 test results by run the following command:
     python ./fusion.py
-after running the command, a RES_txt directory is generated, the directory contains the test result for AFEW6.0 test videos, 593 test videos in total.
+after running the command, a RES_txt directory will be generated. This directory contains the test result(accuracy 59.02%) for AFEW6.0 test videos, 593 test videos in total.
 
 
 Also, you can extract audio and video features yourself, or test other vidoes by the following steps:
