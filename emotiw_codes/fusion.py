@@ -23,7 +23,7 @@ def compute_fusion(pred_1, pred_2, pred_3,pred_4, pred_5, p1, p2,p3, p4):
     
 def dict_vid_count():
     vid_arr = []
-    fp_list = open('./data/vid_list.txt', 'r')
+    fp_list = open('./vid_list.txt', 'r')
     while 1:
     #for vname in sorted(os.listdir('/home/fanyin/emotiow_codes_bak/data/Test_vid_Distribute/')):
         #sp = re.split('.avi',vname)
