@@ -20,7 +20,7 @@ import string
 import re
 from pylab import * 
 import glob
-caffe_root = '../../'
+caffe_root = '../caffe/'
 import sys
 sys.path.insert(0,caffe_root + 'python')
 import caffe

@@ -15,7 +15,7 @@ import os
 import numpy 
 from sklearn import svm
 import sys
-sys.path.insert(0, '/home/fanyin/caffe/python/')
+sys.path.insert(0, '../caffe/python/')
 import caffe
 import time
 import shutil
